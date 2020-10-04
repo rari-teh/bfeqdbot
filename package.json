@@ -1,0 +1,20 @@
+{
+  "name": "bfeqdbot",
+  "version": "0.0.1",
+  "description": "tweets random bfeqd quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "bfeqd",
+    "brony",
+    "clop",
+    "silly"
+  ],
+  "author": "rara",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
